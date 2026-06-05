@@ -2,9 +2,9 @@
 
 A comprehensive, modern food ordering platform built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring real-time order management, payment processing, analytics dashboard, and advanced search capabilities.
 
-## ✨ Features
+## Features
 
-### 🍽️ Core Functionality
+### Core Functionality
 
 - **Restaurant Management**: Complete CRUD operations for restaurants
 - **Menu Management**: Dynamic menu creation and management
@@ -12,7 +12,7 @@ A comprehensive, modern food ordering platform built with the MERN stack (MongoD
 - **Payment Integration**: Secure Stripe payment processing
 - **User Authentication**: Auth0-based secure authentication
 
-### 📊 Advanced Features
+### Advanced Features
 
 - **Analytics Dashboard**: Business insights with charts and metrics
 - **Advanced Search**: Multi-filter search with real-time results
@@ -20,7 +20,7 @@ A comprehensive, modern food ordering platform built with the MERN stack (MongoD
 - **Performance Monitoring**: Real-time system health monitoring
 - **Order Status Tracking**: Comprehensive order lifecycle management
 
-### 🎨 User Experience
+### User Experience
 
 - **Responsive Design**: Mobile-first responsive layout
 - **Modern UI**: Shadcn/ui components with Tailwind CSS
@@ -30,7 +30,7 @@ A comprehensive, modern food ordering platform built with the MERN stack (MongoD
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 
@@ -70,7 +70,7 @@ A comprehensive, modern food ordering platform built with the MERN stack (MongoD
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 food-ordering/
